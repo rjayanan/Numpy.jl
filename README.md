@@ -1,7 +1,7 @@
 # Numpy.jl
 A Julia package designed to make using the Python library Numpy more accessible to users
 
-## Pre-existing Workflow to Use Numpy in Julia
+## [Pre-existing Workflow to Use Numpy in Julia](https://www.geeksforgeeks.org/how-to-install-numpy-package-in-julia/)
 ##### using Pkg
 ##### Pkg.add("PyCall")
 ##### using PyCall
